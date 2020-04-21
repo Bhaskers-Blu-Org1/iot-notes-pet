@@ -1,2 +1,2 @@
 # First
-for open source guidelines
+I'm here so I don't get fined.
